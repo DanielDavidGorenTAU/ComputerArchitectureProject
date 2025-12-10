@@ -24,12 +24,42 @@
     <ClCompile Include="processor.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="instruction.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="memory.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bus.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cache.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="core.h">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="processor.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="buffers.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="instruction.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="memory.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bus.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cache.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
